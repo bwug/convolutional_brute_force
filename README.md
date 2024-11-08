@@ -1,1 +1,3 @@
-# convolutional_brute_force
+# Brute forcer for convolutional coding
+
+Written as an activity for a module at uni
